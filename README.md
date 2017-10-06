@@ -18,11 +18,13 @@ Additionally, account_product_fiscal_classification enable to select
 default product sale and purchase taxes based on a tax class.
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
 [account_fiscal_position_rule](account_fiscal_position_rule/) | 10.0.1.0.0 | Account Fiscal Position Rule
+
 
 Unported addons
 ---------------
