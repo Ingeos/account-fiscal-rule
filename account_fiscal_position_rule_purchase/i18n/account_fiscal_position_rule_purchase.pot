@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* account_fiscal_position_rule_sale
+#	* account_fiscal_position_rule_purchase
 #
 msgid ""
 msgstr ""
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: account_fiscal_position_rule_sale
-#: model:ir.model,name:account_fiscal_position_rule_sale.model_sale_order
-msgid "Sales Order"
+#. module: account_fiscal_position_rule_purchase
+#: model:ir.model,name:account_fiscal_position_rule_purchase.model_purchase_order
+msgid "Purchase Order"
 msgstr ""
 
